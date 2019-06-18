@@ -10,6 +10,7 @@ class Dog
 
   def self.all
     @@all.each do |pup|
+      binding.pry
     end
   end
 end
