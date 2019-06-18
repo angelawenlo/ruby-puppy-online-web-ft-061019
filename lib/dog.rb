@@ -8,6 +8,6 @@ class Dog
 
   def self.all
     @@all.each do |pup|
-      edn
+    end
   end
 end
